@@ -1,4 +1,4 @@
-## GIT
+## GIT for JEC
 #### The stupid content tracker
 ![Image-Relative](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-daftpunkocat.gif)
 
