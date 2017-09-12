@@ -12,3 +12,4 @@ Feel free to improve the slides or fix errors/typos and do a merge request.
 
 - [Gitpich intro and docs](https://github.com/gitpitch/gitpitch)
 - [Acando Norway homepage](https://acando.no)
+
