@@ -15,7 +15,7 @@
 ### Oppgave 2
 
 <table style="font-size: 0.6em">
-<tr><td>_>_</td><td>Gå inn på følgende repo: https://gitlab.acando.no/noesbsla/NOVA26</td></tr>
+<tr><td>_>_</td><td>Gå inn på følgende repo: https://gitlab.acando.no/noesbsla/Git-JEC</td></tr>
 <tr><td>_>_</td><td>Alle har fått hvert sitt issue</td></tr>
 <tr><td>_>_</td><td>Dere skal løse oppgaven i README, på deres egen branch</td></tr>
 <tr><td>_>_</td><td>Commitmeldinger _skal_ prefixes med issue-nummer</td></tr>
@@ -28,7 +28,7 @@
 ### Oppgave 3
 
 <table style="font-size: 0.6em">
-<tr><td>I</td><td>Inviter en eller to andre NOVAER til deres prosjekt</td></tr>
+<tr><td>I</td><td>Inviter en eller to andre kursdeltakere til deres prosjekt</td></tr>
 <tr><td>II</td><td>Inviter meg til deres prosjekt: esben.slaatto@acando.no</td></tr>
 <tr><td>III</td><td>Lag en Merge Request på prosjektet dere er invitert til</td></tr>
 <tr><td>IV</td><td>Skriv kommentarer på Merge Requesten(e) dere har mottatt, og vent på at de skal bli resolved</td></tr>
