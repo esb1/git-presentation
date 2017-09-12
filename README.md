@@ -1,4 +1,4 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/esb1/git-presentation/master?grs=gitlab&t=sky)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/esb1/git-presentation/master?t=sky)
 # Git introduction course
 ## Acando academy
 
