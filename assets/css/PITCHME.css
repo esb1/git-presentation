@@ -1,0 +1,25 @@
+.testklasse {
+    max-height: 50px;
+}
+
+.reveal section img {
+    background: none;
+    shadow: none;
+}
+
+.some_text {
+  text-align: left;
+  color: blue;
+}
+
+.reveal table td {
+  border-bottom: 0px;
+  margin-left: 10px;
+}
+
+.reveal ul {
+  font-size: 0.8em;
+}
+.reveal li {
+  font-size: 0.8em;
+}
