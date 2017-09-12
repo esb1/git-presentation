@@ -48,6 +48,6 @@ Gjør oppgave 1 eller 2 på nytt men denne gangen i deres favoritt IDE med git-v
 ### Lenker
 
 Presentasjon med oppgaver<br>
-*gitlab.com/esb1/git-presentation*<br><br>
+*github.com/esb1/git-presentation*<br><br>
 Acandos gitlab (til oppgave 2)<br>
 *gitlab.acando.no*<br>
