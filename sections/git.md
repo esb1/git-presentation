@@ -93,13 +93,13 @@ Parallell utvikling på ett prosjekt
 
 - Ta innholdet fra en annen branch, og slå sammen med din branch. |
 - Mergingen skjer automatisk => finner endringer som er gjort siden branchene skilte lag, og legger til alle disse på en gang. |
-- Merging fører til en ny commit. Foreldrene til commiten, er tuppen på begge branchene |
+- Merging fører til en ny commit. Foreldrene til commiten, er siste commit på begge branchene |
 
 +++
 
 ### Rebase
 
-Ta endringene fra current branch, og legg de til etter endringene gjort på en annen. Deretter flyttes HEAD til å peke på resultatet.
+Ta endringene du har gjort på din branch, og legg de til etter endringene gjort på en annen. Deretter flyttes HEAD til å peke på resultatet.
 
 +++?image=assets/merge_rebase_1.png
 +++?image=assets/merge_rebase_2.png
@@ -167,6 +167,14 @@ Listen er langt i fra utfyllende, kun tenkt som et sted å starte.
 @[39](Tag en commit med en tag-melding)
 @[40](Push tagen til repoet (følger ikke med vanlig commits))
 @[41](List alle tags i repo (alfabetisk))
+
++++
+
+### Hvordan finne ut om jeg er i et git-prosjekt?
+
+- Det finnes en `.git` mappe i roten av alle git-prosjekt |
+- Forsøk å skrive f.eks `git log` i terminalen |
+- `fatal: Not a git repository (or any of the parent directories): .git` |
 
 +++
 
