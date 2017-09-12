@@ -91,9 +91,9 @@ Parallell utvikling på ett prosjekt
 
 ### Merge
 
-* Ta innholdet fra en annen branch, og slå sammen med din branch. |
-* Mergingen skjer automatisk => finner endringer som er gjort siden branchene skilte lag, og legger til alle disse på en gang. |
-* Merging fører til en ny commit. Foreldrene til commiten, er tuppen på begge branchene |
+- Ta innholdet fra en annen branch, og slå sammen med din branch. |
+- Mergingen skjer automatisk => finner endringer som er gjort siden branchene skilte lag, og legger til alle disse på en gang. |
+- Merging fører til en ny commit. Foreldrene til commiten, er tuppen på begge branchene |
 
 +++
 
